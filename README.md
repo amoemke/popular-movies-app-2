@@ -1,5 +1,7 @@
 # Popular Movies, Stage 1
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 **Aurea Moemke, February 5, 2017**
 **(Project  1, Associate Android Developer Nanodegree, Udacity)**
 
