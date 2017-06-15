@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="@bool/pref_show_reviews_default"
+        android:key="@string/pref_show_reviews_key"
+        android:summaryOff="@string/pref_show_false"
+        android:summaryOn="@string/pref_show_true"
+        android:title="@string/pref_show_reviews_label" />
+
+    <CheckBoxPreference
+        android:defaultValue="@bool/pref_show_trailers_default"
+        android:key="@string/pref_show_trailers_key"
+        android:summaryOff="@string/pref_show_false"
+        android:summaryOn="@string/pref_show_true"
+        android:title="@string/pref_show_trailers_label" />
+
+</PreferenceScreen>

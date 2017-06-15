@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Default app colors-->
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+
+    <!--<color name="colorPrimary">#03A9F4</color> original color-->
+    <color name="colorPrimary">#01579B</color> <!--light blue 900 -->
+    <color name="colorPrimaryDark">#F57C00</color>
+    <!--<color name="colorAccent">#E91E63</color> orig-->
+    <color name="colorAccent">#BF360C</color> <!--deep orange 900-->
+    <color name="colorAccentLight">#FF8A65</color> <!--deep orange 300-->
+
+    <!--<color name="colorTitle">#80D8FF</color> original movie title color-->
+    <color name="colorTitle">#03A9F4</color> <!--  deep orange A200-->
+
+    <color name="lightBlue700">#0288D1</color>
+    <color name="lightBlue900">#01579B</color>
+    <color name= "silverLine">#c0c0c0</color>
+    <color name= "silverLine2">#dadada</color>
+
+    <color name="gray300">#E0E0E0</color>
+    <color name="gray200">#EEEEEE</color>
+    <color name="gray500">#9E9E9E</color> <!-- genre color-->
+
+</resources>

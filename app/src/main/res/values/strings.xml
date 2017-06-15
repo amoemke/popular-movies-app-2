@@ -1,0 +1,61 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message_unknown">An error has occurred, please try again</string>
+    <string name="error_no_apikey">Please provide an api key to access the TMDB server</string>
+    <string name="error_no_internet">Currently offline, only Favorites are available</string>
+    <string name="error_no_movies">No movies in Favorites</string>
+    <string name="error_no_movies_found">No movies found</string>
+    <string name="error_no_query_string">No query string, nothing to search for</string>
+    <string name="error_dialog_title">Error</string>
+
+    <string name="dialog_nowifi">Wifi is required to connect to TMDB Server. Enable WIFI?</string>
+    <string name="yes_str">Yes</string>
+    <string name="no_str">No</string>
+    <string name="wifi_settings">Wifi Settings</string>
+
+    <string name="action_most_popular">Most Popular</string>
+    <string name="action_highest_rated">Highest Rated</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- For labelling movie details - Used in activity-detail.xml -->
+    <string name="release_date">Released</string>
+    <string name="synopsis">Plot Synopsis</string>
+    <string name="user_rating">User Rating</string>
+    <string name="over_10">" / 10"</string>
+    <string name="tv_reviews_title">Reviews</string>
+    <string name="tv_videos_title">Trailers</string>
+
+    <string name="bt_read_more">Read more</string>
+    <string name="no_reviews_found">No Reviews Available</string>
+    <string name="no_videos_found">No Trailers Available</string>
+    <string name="check_out_movie">Great movie! Check this out. </string>
+    <string name="check_out_video">Check out the trailer of this movie! </string>
+    <string name="details_loading">Movie details still loading..</string>
+    <string name="click_to_save_favorite">Click to save to favorites</string>
+    <string name="remove_favorite">Removed from favorites</string>
+    <string name="save_favorite">Saved to Favorites</string>
+    <string name="no_videos_available">No Videos Available</string>
+    <string name="no_reviews_available">No Reviews Available</string>
+    <string name="offline">Offline - No Trailers and Reviews Available</string>
+
+    <string-array name="sort_order_array">
+        <item>Most Popular</item>
+        <item>Highest Rated</item>
+        <item>Favorites</item>
+    </string-array>
+
+    <!-- Strings for preferences-->
+    <string name="pref_show_reviews_label">User Reviews</string>
+    <string name="pref_show_reviews_key" translatable="false">show_reviews</string>
+
+    <string name="pref_show_trailers_label">Movie Trailers</string>
+    <string name="pref_show_trailers_key" translatable="false">show_trailer</string>
+
+    <!-- Summary for Checkboxes -->
+    <string name="pref_show_true">Shown</string>
+    <string name="pref_show_false">Hidden</string>
+
+</resources>
